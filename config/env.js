@@ -1,0 +1,5 @@
+export const config = {
+  url: 'https://www.saucedemo.com/',
+  user: 'standard_user',
+  pass: 'secret_sauce'
+};
